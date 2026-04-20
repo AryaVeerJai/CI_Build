@@ -1,0 +1,13 @@
+<svg width="420" height="120" viewBox="0 0 420 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="sustainow Carbon Intelligence logo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EEF9F1"/>
+      <stop offset="100%" stop-color="#DDF4E3"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="420" height="120" rx="18" fill="url(#bg)"/>
+  <text x="36" y="60" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="0.2">
+    <tspan fill="#111827">sust</tspan><tspan fill="#4CAF50">ai</tspan><tspan fill="#111827">now</tspan>
+  </text>
+  <text x="38" y="90" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="1.2" fill="#1B5E20">CARBON INTELLIGENCE</text>
+</svg>
