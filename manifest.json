@@ -1,0 +1,21 @@
+{
+  "short_name": "Carbon Intelligence",
+  "name": "Carbon Intelligence - MSME Carbon Footprint",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "Sustainow CI Logo.jpeg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1E8B24",
+  "background_color": "#ffffff"
+}
