@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/static/js/main.231e294d.js",
+    "static/js/253.42e336bf.chunk.js": "/static/js/253.42e336bf.chunk.js",
+    "static/media/product-dashboard-web.svg": "/static/media/product-dashboard-web.caff1e69be1edd575c0784c40201c7e7.svg",
+    "static/media/product-green-loans.svg": "/static/media/product-green-loans.84e5818e2688f8d717d168e2934ade7a.svg",
+    "static/media/product-document-management.svg": "/static/media/product-document-management.15cc4e2a39baeb174597277f00cb3ae9.svg",
+    "static/media/product-carbon-assessment.svg": "/static/media/product-carbon-assessment.d25a5eadfdf251882576500794bebe48.svg",
+    "static/media/platform-loop.svg": "/static/media/platform-loop.835e5f5ff2f5e384dd9c34576cec1b6c.svg",
+    "static/media/product-reporting.svg": "/static/media/product-reporting.7d41473ff19a8b0435da4fb6cd508a2e.svg",
+    "index.html": "/index.html",
+    "main.231e294d.js.map": "/static/js/main.231e294d.js.map",
+    "253.42e336bf.chunk.js.map": "/static/js/253.42e336bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.231e294d.js"
+  ]
+}
