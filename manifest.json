@@ -1,0 +1,28 @@
+{
+  "short_name": "Carbon Intelligence",
+  "name": "Carbon Intelligence - MSME Carbon Footprint",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "dashboard-symbol.jpeg",
+      "sizes": "64x64",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "dashboard-symbol.jpeg",
+      "sizes": "64x64",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1E8B24",
+  "background_color": "#ffffff"
+}
