@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/static/js/main.26a64fbe.js",
+    "static/js/253.288b50a1.chunk.js": "/static/js/253.288b50a1.chunk.js",
+    "static/js/874.fbd22d2c.chunk.js": "/static/js/874.fbd22d2c.chunk.js",
+    "static/js/715.1390d58d.chunk.js": "/static/js/715.1390d58d.chunk.js",
+    "static/js/375.1034109c.chunk.js": "/static/js/375.1034109c.chunk.js",
+    "static/js/757.3b431ee6.chunk.js": "/static/js/757.3b431ee6.chunk.js",
+    "static/js/277.d434a0a5.chunk.js": "/static/js/277.d434a0a5.chunk.js",
+    "static/media/product-dashboard-web.svg": "/static/media/product-dashboard-web.33c00285b15bb75c07f26931ed666218.svg",
+    "static/media/product-green-loans.svg": "/static/media/product-green-loans.b7336f6b43b0a101a5ddca83dbd3e3a3.svg",
+    "static/media/product-document-management.svg": "/static/media/product-document-management.c1b7b05c76882194e503a4ca245ff280.svg",
+    "static/media/product-carbon-assessment.svg": "/static/media/product-carbon-assessment.2ecee49edca0d2ca53a1da6c61d0520c.svg",
+    "static/media/platform-loop.svg": "/static/media/platform-loop.ad28107913adef1a43c31e001ef1c024.svg",
+    "static/media/product-reporting.svg": "/static/media/product-reporting.d1099f11d524652a044f1e4bd1b884be.svg",
+    "index.html": "/index.html",
+    "main.26a64fbe.js.map": "/static/js/main.26a64fbe.js.map",
+    "253.288b50a1.chunk.js.map": "/static/js/253.288b50a1.chunk.js.map",
+    "874.fbd22d2c.chunk.js.map": "/static/js/874.fbd22d2c.chunk.js.map",
+    "715.1390d58d.chunk.js.map": "/static/js/715.1390d58d.chunk.js.map",
+    "375.1034109c.chunk.js.map": "/static/js/375.1034109c.chunk.js.map",
+    "757.3b431ee6.chunk.js.map": "/static/js/757.3b431ee6.chunk.js.map",
+    "277.d434a0a5.chunk.js.map": "/static/js/277.d434a0a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.26a64fbe.js"
+  ]
+}
