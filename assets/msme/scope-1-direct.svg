@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280" role="img" aria-label="Scope 1 direct emissions from on-site fuel">
+  <defs>
+    <linearGradient id="s1sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff7ed"/>
+      <stop offset="55%" stop-color="#ffedd5"/>
+      <stop offset="100%" stop-color="#fed7aa"/>
+    </linearGradient>
+    <linearGradient id="s1smoke" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#fb923c" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#fdba74" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="s1flame" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#ea580c"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="280" rx="16" fill="url(#s1sky)"/>
+  <ellipse cx="240" cy="248" rx="190" ry="18" fill="#c2410c" opacity="0.12"/>
+
+  <!-- Factory building -->
+  <rect x="48" y="118" width="150" height="110" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2.5"/>
+  <rect x="48" y="98" width="150" height="28" rx="4" fill="#fdba74" stroke="#c2410c" stroke-width="2"/>
+  <rect x="68" y="148" width="36" height="36" rx="3" fill="#ffedd5" stroke="#c2410c" stroke-width="2"/>
+  <rect x="120" y="148" width="36" height="36" rx="3" fill="#ffedd5" stroke="#c2410c" stroke-width="2"/>
+  <rect x="98" y="188" width="40" height="40" rx="3" fill="#fff" stroke="#c2410c" stroke-width="2.5"/>
+
+  <!-- Stack + smoke -->
+  <rect x="168" y="58" width="22" height="68" rx="3" fill="#fed7aa" stroke="#c2410c" stroke-width="2"/>
+  <ellipse cx="179" cy="48" rx="28" ry="16" fill="url(#s1smoke)"/>
+  <ellipse cx="198" cy="32" rx="22" ry="12" fill="#fdba74" opacity="0.45"/>
+  <ellipse cx="160" cy="28" rx="18" ry="10" fill="#fb923c" opacity="0.35"/>
+
+  <!-- Generator / furnace -->
+  <rect x="230" y="148" width="78" height="70" rx="10" fill="#fff" stroke="#c2410c" stroke-width="2.5"/>
+  <rect x="244" y="164" width="50" height="28" rx="4" fill="#fb923c"/>
+  <path d="M269 148 V118 M256 128 L269 118 L282 128" stroke="#c2410c" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M255 188 Q269 168 283 188" fill="url(#s1flame)" opacity="0.9"/>
+
+  <!-- Company vehicle -->
+  <rect x="338" y="168" width="92" height="36" rx="8" fill="#fff" stroke="#c2410c" stroke-width="2.5"/>
+  <path d="M358 168 L378 142 H410 L430 168 Z" fill="#fdba74" stroke="#c2410c" stroke-width="2"/>
+  <rect x="384" y="150" width="22" height="16" rx="2" fill="#ffedd5" stroke="#c2410c" stroke-width="1.5"/>
+  <circle cx="360" cy="208" r="14" fill="#7c2d12"/>
+  <circle cx="360" cy="208" r="6" fill="#fed7aa"/>
+  <circle cx="412" cy="208" r="14" fill="#7c2d12"/>
+  <circle cx="412" cy="208" r="6" fill="#fed7aa"/>
+
+  <!-- Fuel droplet accent -->
+  <path d="M300 72 C300 56 322 56 322 72 C322 84 311 94 311 94 C311 94 300 84 300 72 Z" fill="#ea580c" opacity="0.85"/>
+</svg>

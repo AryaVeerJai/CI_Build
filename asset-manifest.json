@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64957299.css",
+    "main.js": "/static/js/main.cca972bf.js",
+    "static/js/313.48d3df91.chunk.js": "/static/js/313.48d3df91.chunk.js",
+    "static/js/320.c83a92b0.chunk.js": "/static/js/320.c83a92b0.chunk.js",
+    "static/js/559.84997b30.chunk.js": "/static/js/559.84997b30.chunk.js",
+    "static/js/523.9a34d33e.chunk.js": "/static/js/523.9a34d33e.chunk.js",
+    "static/js/925.16c45236.chunk.js": "/static/js/925.16c45236.chunk.js",
+    "static/js/762.e890949e.chunk.js": "/static/js/762.e890949e.chunk.js",
+    "static/js/530.6760e3df.chunk.js": "/static/js/530.6760e3df.chunk.js",
+    "static/js/57.8e19bf9a.chunk.js": "/static/js/57.8e19bf9a.chunk.js",
+    "static/js/620.08f39562.chunk.js": "/static/js/620.08f39562.chunk.js",
+    "static/media/product-dashboard-web.svg": "/static/media/product-dashboard-web.33c00285b15bb75c07f26931ed666218.svg",
+    "static/media/product-green-loans.svg": "/static/media/product-green-loans.b7336f6b43b0a101a5ddca83dbd3e3a3.svg",
+    "static/media/product-document-management.svg": "/static/media/product-document-management.c1b7b05c76882194e503a4ca245ff280.svg",
+    "static/media/product-carbon-assessment.svg": "/static/media/product-carbon-assessment.2ecee49edca0d2ca53a1da6c61d0520c.svg",
+    "static/media/platform-loop.svg": "/static/media/platform-loop.ad28107913adef1a43c31e001ef1c024.svg",
+    "static/media/product-reporting.svg": "/static/media/product-reporting.d1099f11d524652a044f1e4bd1b884be.svg",
+    "index.html": "/index.html",
+    "main.64957299.css.map": "/static/css/main.64957299.css.map",
+    "main.cca972bf.js.map": "/static/js/main.cca972bf.js.map",
+    "313.48d3df91.chunk.js.map": "/static/js/313.48d3df91.chunk.js.map",
+    "320.c83a92b0.chunk.js.map": "/static/js/320.c83a92b0.chunk.js.map",
+    "559.84997b30.chunk.js.map": "/static/js/559.84997b30.chunk.js.map",
+    "523.9a34d33e.chunk.js.map": "/static/js/523.9a34d33e.chunk.js.map",
+    "925.16c45236.chunk.js.map": "/static/js/925.16c45236.chunk.js.map",
+    "762.e890949e.chunk.js.map": "/static/js/762.e890949e.chunk.js.map",
+    "530.6760e3df.chunk.js.map": "/static/js/530.6760e3df.chunk.js.map",
+    "57.8e19bf9a.chunk.js.map": "/static/js/57.8e19bf9a.chunk.js.map",
+    "620.08f39562.chunk.js.map": "/static/js/620.08f39562.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64957299.css",
+    "static/js/main.cca972bf.js"
+  ]
+}
