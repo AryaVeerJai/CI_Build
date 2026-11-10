@@ -1,0 +1,17 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sustainow dashboard mark">
+  <defs>
+    <linearGradient id="lotusPetalGrad" x1="128" y1="36" x2="128" y2="208" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#DFF6B8"/>
+      <stop offset="45%" stop-color="#7FD456"/>
+      <stop offset="100%" stop-color="#1B5E20"/>
+    </linearGradient>
+    <path id="lotusPetal" d="M 0 0 C -42 -92 -42 -148 0 -168 C 42 -148 42 -92 0 0 Z"/>
+  </defs>
+  <g transform="translate(128 200)" fill="url(#lotusPetalGrad)">
+    <use href="#lotusPetal" transform="rotate(-42)" fill-opacity="0.62"/>
+    <use href="#lotusPetal" transform="rotate(-21)" fill-opacity="0.66"/>
+    <use href="#lotusPetal" transform="rotate(0)" fill-opacity="0.72"/>
+    <use href="#lotusPetal" transform="rotate(21)" fill-opacity="0.66"/>
+    <use href="#lotusPetal" transform="rotate(42)" fill-opacity="0.62"/>
+  </g>
+</svg>
